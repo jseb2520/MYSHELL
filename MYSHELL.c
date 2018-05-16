@@ -4,7 +4,7 @@
 #include <stdlib.h>
 
 
-#define PROMPT ">>#"
+#define PROMPT "~#MYSHELL>>"
 #define MSJ_ERROR "Error de sintaxis \n"
 #define MAX 51
 
